@@ -1,9 +1,9 @@
 class Zyquo < Formula
   desc "Native macOS AI terminal agent runtime"
   homepage "https://github.com/simonpierreboucher02/zyquo"
-  url "https://github.com/simonpierreboucher02/zyquo/releases/download/v0.9.0/zyquo-0.9.0-macos-arm64.tar.gz"
-  sha256 "d916cb80a3f08446f8c7d34767a4b56e09b5261ce26b45b5386f5db6916f29d9"
-  version "0.9.0"
+  url "https://github.com/simonpierreboucher02/zyquo/releases/download/v0.9.1/zyquo-0.9.1-macos-arm64.tar.gz"
+  sha256 "74e1135d8cf57cd2aeab45dfddd777aaad026f2f5305d9769c218735a64a0340"
+  version "0.9.1"
   license "Apache-2.0"
 
   depends_on :macos
